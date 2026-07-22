@@ -133,7 +133,7 @@ Continue Vendor Monitoring
 
 ### Process Flow Diagram
 
-![Vendor Management Process Flo](Diagrams/vendor_management_process_flow.png)
+![Vendor Management Process Flo](Diagrams/vendor_management_process_flowchart.png)
 
 ---
 
